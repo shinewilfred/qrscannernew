@@ -1,0 +1,19 @@
+{
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "accuracy": 1.0,
+  "matrix": [
+    [
+      60,
+      0
+    ],
+    [
+      0,
+      10
+    ]
+  ],
+  "n_train": 280,
+  "n_test": 70,
+  "provenance": "Prototype dataset, 350 samples, includes 350 synthetic URLs."
+}

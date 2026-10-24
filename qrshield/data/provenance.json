@@ -1,0 +1,7 @@
+{
+  "synthetic_safe": 300,
+  "synthetic_phish": 50,
+  "openphish": 0,
+  "tranco": 0,
+  "network": "not requested by default; reproducible synthetic fallback used"
+}
